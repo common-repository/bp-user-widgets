@@ -1,0 +1,346 @@
+#: bp-user-widgets.php:43
+msgid "Video/Audio 1"
+msgstr ""
+
+#: bp-user-widgets.php:44
+msgid "Video/Audio 2"
+msgstr ""
+
+#: bp-user-widgets.php:45
+msgid "Video/Audio 3"
+msgstr ""
+
+#: bp-user-widgets.php:46
+msgid "Video/Audio 4"
+msgstr ""
+
+#: bp-user-widgets.php:47
+msgid "Text 1"
+msgstr ""
+
+#: bp-user-widgets.php:48
+msgid "Text 2"
+msgstr ""
+
+#: bp-user-widgets.php:49
+msgid "Text 3"
+msgstr ""
+
+#: bp-user-widgets.php:50
+msgid "Text 4"
+msgstr ""
+
+#: bp-user-widgets.php:51
+msgid "Followed"
+msgstr ""
+
+#: bp-user-widgets.php:52
+msgid "Following"
+msgstr ""
+
+#: bp-user-widgets.php:53
+msgid "My Friends"
+msgstr ""
+
+#: bp-user-widgets.php:54
+msgid "My Groups"
+msgstr ""
+
+#: bp-user-widgets.php:55
+msgid ""
+"Resetting to defaults..."
+msgstr ""
+
+#: bp-user-widgets.php:56
+#: includes/bpuw-widget-class.php:193
+#: includes/bpuw-widget-class.php:212
+#: includes/bpuw-widget-class.php:244
+msgid "Submit"
+msgstr ""
+
+#: bp-user-widgets.php:57
+#: includes/bpuw-widget-class.php:176
+msgid "Add Widget"
+msgstr ""
+
+#: bp-user-widgets.php:58
+#: includes/bpuw-widget-class.php:170
+msgid "Change"
+msgstr ""
+
+#: bp-user-widgets.php:59
+msgid "Cancel"
+msgstr ""
+
+#: bp-user-widgets.php:60
+msgid "Success!"
+msgstr ""
+
+#: bp-user-widgets.php:61
+msgid ""
+"Success! Please refresh "
+"the window to see."
+msgstr ""
+
+#: bp-user-widgets.php:62
+msgid ""
+"Please try again..."
+msgstr ""
+
+#: bp-user-widgets.php:63
+msgid "Please paste a URL"
+msgstr ""
+
+#: bp-user-widgets.php:64
+#: bp-user-widgets.php:70
+msgid "Adding Video ..."
+msgstr ""
+
+#: bp-user-widgets.php:65
+msgid "Adding Friends ..."
+msgstr ""
+
+#: bp-user-widgets.php:66
+msgid "Adding Groups ..."
+msgstr ""
+
+#: bp-user-widgets.php:67
+msgid "Adding Posts ..."
+msgstr ""
+
+#: bp-user-widgets.php:68
+msgid ""
+"Adding Following ..."
+msgstr ""
+
+#: bp-user-widgets.php:69
+msgid ""
+"Adding Followers ..."
+msgstr ""
+
+#: bp-user-widgets.php:71
+msgid "Deleting..."
+msgstr ""
+
+#: bp-user-widgets.php:72
+#: includes/bpuw-widget-class.php:279
+msgid "Clear Preset"
+msgstr ""
+
+#: bp-user-widgets.php:73
+#: includes/bpuw-widget-class.php:283
+msgid "Save as Preset"
+msgstr ""
+
+#: bp-user-widgets.php:74
+msgid "Clearing Preset..."
+msgstr ""
+
+#: bp-user-widgets.php:75
+msgid ""
+"Saving as Preset..."
+msgstr ""
+
+#: bp-user-widgets.php:76
+msgid "Adding Text ..."
+msgstr ""
+
+#: includes/bpuw-ajax.php:28
+msgid "Not correct user"
+msgstr ""
+
+#: includes/bpuw-ajax.php:201
+msgid "Video not saved"
+msgstr ""
+
+#: includes/bpuw-functions.php:493
+msgid ""
+"There are no groups to "
+"display."
+msgstr ""
+
+#: includes/bpuw-functions.php:509
+msgid ""
+"<h3>Profile Widgets "
+"Data</h3>\n"
+"\t\t<p>When a user "
+"saves their text or "
+"video widgets, this may "
+"contain personal data "
+"so this data should be "
+"included in your "
+"privacy policy.</p>\n"
+"\t\t<p><b>Suggested "
+"Text: </b>When you add "
+"custom widgets to your "
+"profile, it's possible "
+"that this may include "
+"personal information. "
+"This site will store "
+"that information until "
+"you either clear the "
+"widgets or leave the "
+"site.</p>"
+msgstr ""
+
+#: includes/bpuw-functions.php:561
+msgid "User Widgets"
+msgstr ""
+
+#: includes/bpuw-functions.php:570
+msgid "Widget Title"
+msgstr ""
+
+#: includes/bpuw-functions.php:574
+msgid "Widget Content"
+msgstr ""
+
+#: includes/bpuw-functions.php:604
+#: includes/bpuw-functions.php:639
+msgid ""
+"BP User Widgets Plugin"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:16
+msgid ""
+"Adds user sortable and "
+"selectable widgets to "
+"BP user pages"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:18
+msgid "BP User Widgets"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:35
+#: includes/bpuw-widget-class.php:320
+msgid "Title:"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:141
+msgid "Change Video"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:143
+msgid "Clear Video"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:147
+msgid "Add a Video"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:154
+msgid "Change Text"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:156
+msgid "Clear Text"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:161
+msgid "Add Text"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:172
+msgid "Hide Widget"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:187
+msgid ""
+"Paste Video URL here"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:192
+msgid "Autoplay"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:219
+msgid "Max users"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:223
+msgid " Max Users to show"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:226
+msgid "Max groups"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:230
+msgid ""
+" Max Groups to show"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:233
+msgid "Max posts"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:237
+msgid " Max Posts to show"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:238
+msgid ""
+"Featured image size"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:242
+msgid ""
+" Featured Image Size"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:263
+msgid "Update Widgets"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:267
+msgid "Add a Widget"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:290
+msgid "Clear All"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:293
+msgid ""
+"Select an empty widget "
+"and input the required "
+"info"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:311
+msgid "Profile Widgets"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:324
+msgid "Width (px):"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:328
+msgid ""
+"Disable Video/Audio "
+"Widgets:"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:332
+msgid ""
+"Disable Text Widgets:"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:336
+msgid ""
+"Disable WordPress "
+"Widgets:"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:340
+msgid ""
+"Disable Follow Widgets:"
+msgstr ""
+
+#: includes/bpuw-widget-class.php:344
+msgid ""
+"Disable BuddyPress (My "
+"Friends, My Groups )  "
+"Widgets:"
+msgstr ""

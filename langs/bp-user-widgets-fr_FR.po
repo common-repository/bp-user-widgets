@@ -1,0 +1,331 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: ProfileGrid POT v1.0.0\n"
+"POT-Creation-Date: 2019-04-03 01:55+0200\n"
+"PO-Revision-Date: \n"
+"Language-Team: ProfileGrid Support <support@profilegrid.co>\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bp-user-widgets.php:43
+msgid "Video/Audio 1"
+msgstr "Vidéo/Audio 1"
+
+#: bp-user-widgets.php:44
+msgid "Video/Audio 2"
+msgstr "Vidéo/Audio 2"
+
+#: bp-user-widgets.php:45
+msgid "Video/Audio 3"
+msgstr "Vidéo/Audio 3"
+
+#: bp-user-widgets.php:46
+msgid "Video/Audio 4"
+msgstr "Vidéo/Audio 4"
+
+#: bp-user-widgets.php:47
+msgid "Text 1"
+msgstr "Texte 1"
+
+#: bp-user-widgets.php:48
+msgid "Text 2"
+msgstr "Texte 2"
+
+#: bp-user-widgets.php:49
+msgid "Text 3"
+msgstr "Texte 3"
+
+#: bp-user-widgets.php:50
+msgid "Text 4"
+msgstr "Texte 4"
+
+#: bp-user-widgets.php:51
+msgid "Followed"
+msgstr "Abonnés"
+
+#: bp-user-widgets.php:52
+msgid "Following"
+msgstr "Abonnements"
+
+#: bp-user-widgets.php:53
+msgid "My Friends"
+msgstr "Mes Amis"
+
+#: bp-user-widgets.php:54
+msgid "My Groups"
+msgstr "Mes groupes"
+
+#: bp-user-widgets.php:55
+msgid "Resetting to defaults..."
+msgstr "Remise des valeurs par défaut..."
+
+#: bp-user-widgets.php:56 includes/bpuw-widget-class.php:193
+#: includes/bpuw-widget-class.php:212 includes/bpuw-widget-class.php:244
+msgid "Submit"
+msgstr "Envoyer"
+
+#: bp-user-widgets.php:57 includes/bpuw-widget-class.php:176
+msgid "Add Widget"
+msgstr "Ajouter le widget"
+
+#: bp-user-widgets.php:58 includes/bpuw-widget-class.php:170
+msgid "Change"
+msgstr "Changer"
+
+#: bp-user-widgets.php:59
+msgid "Cancel"
+msgstr "Annuler"
+
+#: bp-user-widgets.php:60
+msgid "Success!"
+msgstr "Réussite !"
+
+#: bp-user-widgets.php:61
+msgid "Success! Please refresh the window to see."
+msgstr "Réussi ! Veuillez rafraîchir la fenêtre pour le voir."
+
+#: bp-user-widgets.php:62
+msgid "Please try again..."
+msgstr "Merci de réessayer..."
+
+#: bp-user-widgets.php:63
+msgid "Please paste a URL"
+msgstr "Veuillez coller une URL"
+
+#: bp-user-widgets.php:64 bp-user-widgets.php:70
+msgid "Adding Video ..."
+msgstr "Ajout de la vidéo..."
+
+#: bp-user-widgets.php:65
+msgid "Adding Friends ..."
+msgstr "Ajout des amis..."
+
+#: bp-user-widgets.php:66
+msgid "Adding Groups ..."
+msgstr "Ajout des groupes..."
+
+#: bp-user-widgets.php:67
+msgid "Adding Posts ..."
+msgstr "Ajout des messages..."
+
+#: bp-user-widgets.php:68
+msgid "Adding Following ..."
+msgstr "Ajout de mes abonnements..."
+
+#: bp-user-widgets.php:69
+msgid "Adding Followers ..."
+msgstr "Ajout de mes abonnés..."
+
+#: bp-user-widgets.php:71
+msgid "Deleting..."
+msgstr "Suppression..."
+
+#: bp-user-widgets.php:72 includes/bpuw-widget-class.php:279
+msgid "Clear Preset"
+msgstr "Supprimer le modèle"
+
+#: bp-user-widgets.php:73 includes/bpuw-widget-class.php:283
+msgid "Save as Preset"
+msgstr "Enregistrer comme modèle"
+
+#: bp-user-widgets.php:74
+msgid "Clearing Preset..."
+msgstr "Supprime le modèle..."
+
+#: bp-user-widgets.php:75
+msgid "Saving as Preset..."
+msgstr "Enregistre comme modèle..."
+
+#: bp-user-widgets.php:76
+msgid "Adding Text ..."
+msgstr "Ajout du texte..."
+
+#: includes/bpuw-ajax.php:28
+msgid "Not correct user"
+msgstr "Utilisateur incorrect"
+
+#: includes/bpuw-ajax.php:201
+msgid "Video not saved"
+msgstr "Vidéo non enregistrée"
+
+#: includes/bpuw-functions.php:493
+msgid "There are no groups to display."
+msgstr "Il n'y a pas de groupe à afficher."
+
+#: includes/bpuw-functions.php:509
+msgid ""
+"<h3>Profile Widgets Data</h3>\n"
+"\t\t<p>When a user saves their text or video widgets, this may contain "
+"personal data so this data should be included in your privacy policy.</p>\n"
+"\t\t<p><b>Suggested Text: </b>When you add custom widgets to your profile, "
+"it's possible that this may include personal information. This site will "
+"store that information until you either clear the widgets or leave the site."
+"</p>"
+msgstr ""
+"<h3>Données des widgets de profil</h3>\n"
+"\t\t<p>Lorsqu’un utilisateur enregistre ses widgets de texte ou de vidéo, "
+"ils peuvent contenir des données personnelles qui doivent être mentionnées "
+"dans votre politique de confidentialité.</p>\n"
+"\t\t<p><b>Texte suggéré :</b> Lorsque vous ajoutez des widgets "
+"personnalisés à votre profil, il est possible que cela puisse inclure des "
+"informations personnelles. Ce site stockera ces informations jusqu’à ce que "
+"vous supprimiez ces widgets ou quittiez définitivement ce site.</p>"
+
+#: includes/bpuw-functions.php:561
+msgid "User Widgets"
+msgstr "Widget de l'utilisateur"
+
+#: includes/bpuw-functions.php:570
+msgid "Widget Title"
+msgstr "Titre du widget"
+
+#: includes/bpuw-functions.php:574
+msgid "Widget Content"
+msgstr "Contenu du widget"
+
+#: includes/bpuw-functions.php:604 includes/bpuw-functions.php:639
+msgid "BP User Widgets Plugin"
+msgstr "Extension BP widget des utilisateurs"
+
+#: includes/bpuw-widget-class.php:16
+msgid "Adds user sortable and selectable widgets to BP user pages"
+msgstr ""
+"Ajoute des widgets de sélection et de tri des utilisateurs sur les pages "
+"BuddyPress."
+
+#: includes/bpuw-widget-class.php:18
+msgid "BP User Widgets"
+msgstr "BP widgets utilisateur"
+
+#: includes/bpuw-widget-class.php:35 includes/bpuw-widget-class.php:320
+msgid "Title:"
+msgstr "Titre :"
+
+#: includes/bpuw-widget-class.php:141
+msgid "Change Video"
+msgstr "Changer la vidéo"
+
+#: includes/bpuw-widget-class.php:143
+msgid "Clear Video"
+msgstr "Supprimer la vidéo"
+
+#: includes/bpuw-widget-class.php:147
+msgid "Add a Video"
+msgstr "Ajouter une vidéo"
+
+#: includes/bpuw-widget-class.php:154
+msgid "Change Text"
+msgstr "Modifier le texte"
+
+#: includes/bpuw-widget-class.php:156
+msgid "Clear Text"
+msgstr "Supprimer le texte"
+
+#: includes/bpuw-widget-class.php:161
+msgid "Add Text"
+msgstr "Ajouter du texte"
+
+#: includes/bpuw-widget-class.php:172
+msgid "Hide Widget"
+msgstr "Masquer le widget"
+
+#: includes/bpuw-widget-class.php:187
+msgid "Paste Video URL here"
+msgstr "Coller l'URL de la vidéo ici"
+
+#: includes/bpuw-widget-class.php:192
+msgid "Autoplay"
+msgstr "Autoplay"
+
+#: includes/bpuw-widget-class.php:219
+msgid "Max users"
+msgstr "Nb max. d'utilisateurs"
+
+#: includes/bpuw-widget-class.php:223
+msgid " Max Users to show"
+msgstr " Nb max. d'utilisateurs à afficher"
+
+#: includes/bpuw-widget-class.php:226
+msgid "Max groups"
+msgstr "Nb max. de groupes"
+
+#: includes/bpuw-widget-class.php:230
+msgid " Max Groups to show"
+msgstr " Nb max. de groupes à afficher"
+
+#: includes/bpuw-widget-class.php:233
+msgid "Max posts"
+msgstr "Nb max. d'articles"
+
+#: includes/bpuw-widget-class.php:237
+msgid " Max Posts to show"
+msgstr " Nb max. d'articles à afficher"
+
+#: includes/bpuw-widget-class.php:238
+msgid "Featured image size"
+msgstr "Taille de l'image mise en avant"
+
+#: includes/bpuw-widget-class.php:242
+msgid " Featured Image Size"
+msgstr " Taille de l'image mise en avant"
+
+#: includes/bpuw-widget-class.php:263
+msgid "Update Widgets"
+msgstr "Mettre à jour le widget"
+
+#: includes/bpuw-widget-class.php:267
+msgid "Add a Widget"
+msgstr "Ajouter un widget"
+
+#: includes/bpuw-widget-class.php:290
+msgid "Clear All"
+msgstr "Tout supprimer"
+
+#: includes/bpuw-widget-class.php:293
+msgid "Select an empty widget and input the required info"
+msgstr "Sélectionnez un widget vide et renseignez les informations demandées"
+
+#: includes/bpuw-widget-class.php:311
+msgid "Profile Widgets"
+msgstr "Widget du profil"
+
+#: includes/bpuw-widget-class.php:324
+msgid "Width (px):"
+msgstr "Largeur (px) :"
+
+#: includes/bpuw-widget-class.php:328
+msgid "Disable Video/Audio Widgets:"
+msgstr "Désactive les widgets Vidéo/Audio :"
+
+#: includes/bpuw-widget-class.php:332
+msgid "Disable Text Widgets:"
+msgstr "Désactive les widgets texte :"
+
+#: includes/bpuw-widget-class.php:336
+msgid "Disable WordPress Widgets:"
+msgstr "Désactive les widgets Wordpress :"
+
+#: includes/bpuw-widget-class.php:340
+msgid "Disable Follow Widgets:"
+msgstr "Désactive les widgets des abonnés :"
+
+#: includes/bpuw-widget-class.php:344
+msgid "Disable BuddyPress (My Friends, My Groups )  Widgets:"
+msgstr "Désactive les widgets BuddyPress (Mes amis, Mes groupes) :"

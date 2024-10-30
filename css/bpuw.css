@@ -1,0 +1,13 @@
+.bp-extended-groups-clearfix:after {
+	content:"";
+	display:table;
+	clear:both;
+}
+#extended-groups-list{
+	list-style: none;
+	margin-left:0;
+}
+
+
+
+
